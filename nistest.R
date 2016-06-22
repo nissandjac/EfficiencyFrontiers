@@ -14,3 +14,9 @@ l2 <- l + rnorm(200,mean = 0,sd = 0.2)
 pdf('test2.pdf')
 plot(l,l2)
 dev.off()
+
+
+# Make another plot here
+
+
+plot(cars)
