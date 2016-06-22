@@ -25,3 +25,8 @@ plot(cars*2)
 
 
 plot(1:3)
+
+
+# Just add some tect here
+
+lm1 <- lm(l2 ~ l)
