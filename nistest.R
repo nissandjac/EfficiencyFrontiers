@@ -20,3 +20,5 @@ dev.off()
 
 
 plot(cars)
+
+plot(cars*2)
